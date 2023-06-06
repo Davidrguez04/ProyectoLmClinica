@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+h1{
+
+color:blue;
+
+font-weight: bold;
+
+text-align:center;
+
+}
+
+.nombre{
+
+color:black;
+
+text-align:center;
+
+}
+
+.telefono{
+
+color:black;
+
+text-align:center;
+
+}
+
+.alta{
+
+color:black;
+
+text-align:center;
+
+}
+
+.salida{
+
+color:black;
+
+text-align:center;
+
+}
+
+.registro{
+
+text-align:right;
+
+
+
+}
+
+.regresar{
+
+text-align:left;
+
+}
+
+button{
+  background-color: rgb(4, 128, 245);
+  color: white;
+}
+
+div>input{
+  background-color: rgb(4, 128, 245);
+  color: white;
+}
+.datoss{
+	text-align:right;
+}
+.cambiar{
+	text-align:left;
+}
